@@ -9,7 +9,7 @@ Implementation of Cryslator developed by Prof. Yousung Jung group at Seoul Natio
 Sungwon Kim (syaym@kaist.ac.kr)
 
 # How to Use
-First, take jsons_xmno_rcut6 from (X-Mn-O pair dataset), and execute the codes in numerical order.
+First, take jsons_xmno_rcut6 from https://doi.org/10.5281/zenodo.8081655 (X-Mn-O pair dataset), and execute the codes in numerical order.
 
 1.train_GCN.py : Trainig Graph-Encoder and Regressor
 
